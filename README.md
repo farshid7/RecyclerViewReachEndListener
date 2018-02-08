@@ -16,9 +16,10 @@ Step 1. Add the JitPack repository to your build file
 	
     Step 3. Pass recyclerview to labrary
     
+    
 RecyclerViewReachEndListener.setEndListener(recyclerView, new RecyclerViewReachEndListener.OnSchoolReachEnd() {
             @Override
             public void OnReachEnd() {
-                //recyclerview reach end :)
+                //recyclerview reach end
             }
         });
