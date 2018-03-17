@@ -11,7 +11,7 @@ Step 1. Add the JitPack repository to your build file
   Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.farshid7:RecyclerViewReachEndListener:1.0'
+	        compile 'com.github.farshid7:RecyclerViewReachEndListener:2.0'
 	}
 	
     Step 3. Pass recyclerview to labrary
